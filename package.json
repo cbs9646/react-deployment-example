@@ -2,6 +2,7 @@
   "name": "react-demployment-example",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cbs9646.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
